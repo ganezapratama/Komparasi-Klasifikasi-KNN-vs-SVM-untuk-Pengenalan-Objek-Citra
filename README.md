@@ -1,0 +1,1 @@
+# Komparasi-Klasifikasi-KNN-vs-SVM-untuk-Pengenalan-Objek-Citra
